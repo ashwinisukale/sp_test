@@ -5,7 +5,7 @@
 #### Problem Statement
 
 1. Receives a log as argument (webserver.log is provided)
-  - e.g.:
+  e.g.:
   - 
 	`./parser.rb webserver.log`
 2. Returns the following:
